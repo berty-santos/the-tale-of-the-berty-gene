@@ -1,0 +1,21 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#logo{
+  width:400px; 
+  height:200px;
+}
+
+body{
+  background-color: darkred;
+  color:ivory;
+  font-size: 2em;
+}
+a:hover{
+  font-size:3em;
+  color:lightgreen;
+}
